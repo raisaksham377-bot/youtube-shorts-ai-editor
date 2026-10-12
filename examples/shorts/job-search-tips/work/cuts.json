@@ -1,0 +1,33 @@
+{
+  "project": "video-4",
+  "clip_order": ["clip1"],
+  "clips": [
+    {
+      "id": "clip1",
+      "file": "heygen-raw.mp4",
+      "duration": 70.935,
+      "keeps": [
+        {
+          "s": 0.0,
+          "e": 70.935,
+          "text": "If you're job hunting and feeling paralyzed, this video will save you months of wasted time. Not because I'll tell you to apply more, but because I just learned something from a neuroscience researcher in Boston. He's studying how the brain rewires under chronic stress, specifically people in prolonged job search. He told me, after 150 rejections, your brain builds a predictive model. Apply equals danger. Your conscious mind says, I need this job. Your subconscious, which controls 95% of your actions, screams, Last 150 times, this hurt. Don't do it. Result? Paralysis. Avoidance. Guilt. It's not laziness. It's your nervous system protecting you. Here's how to fix it. 1, awareness. Name the resistance. Just this weakens the loop. 2, micro-actions. Stop 50 applications a day. Start with 1 in calm state. 3, reframe rejection. Every rejection equals data point, not judgment. 4, calm your nervous system. 2 minutes deep breathing before applying. 5, Evidence over affirmations. Your subconscious believes what you do, not what you say. Your brain isn't broken. It's a prediction machine, predicting based on old data. Your job? Feed it new data, one application at a time. If this resonates, drop a comment. What's one micro-action you'll take today?"
+        }
+      ],
+      "cuts": [],
+      "fluff_suggestions": []
+    }
+  ],
+  "styles": {
+    "tight": { "internal_gap": 0.4, "min_tail": 0.14, "max_tail": 0.4, "head": 0.11, "soft_gap": 1.2, "soft_max_tail": 0.6, "soft_margin": 3.0 },
+    "natural": { "internal_gap": 0.4, "min_tail": 0.26, "max_tail": 0.45, "head": 0.19, "soft_gap": 1.2, "soft_max_tail": 0.6, "soft_margin": 3.0 }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "clip1",
+      "at": "00:00",
+      "issue": "Single continuous AI-avatar take, no retakes/false starts/fillers/fluff found on read-through — kept as one span with zero cuts. Style params above are the repo's reference defaults (tuned to a human speaker's onset ramp on video-1); not re-measured for this avatar's voice since there are no internal cut-joins here for onset-clipping risk to bite on. Flag if the preview reveals otherwise.",
+      "default": "keep as single span, reference style params"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "project": "video-5",
+  "clip_order": ["clip1"],
+  "clips": [
+    {
+      "id": "clip1",
+      "file": "heygen-raw.mp4",
+      "duration": 112.457,
+      "keeps": [
+        {
+          "s": 0.0,
+          "e": 112.457,
+          "text": "Hi, I'm Saksham. Here's something most candidates applying to Human Archive probably haven't noticed. Your real bottleneck isn't building better SLAM models or raising more capital. It's the fact that every hour of unusable deployment data collected on a factory floor costs your ML pipeline weeks of retraining downstream. The entire value chain of physical AI starts and dies at ground-level capture quality. And right now, you're hiring 20 ops managers at once, which means you're not just filling seats. You're betting that 20 people you've never trained before will protect the most expensive part of your data supply chain from day one. That's where I come in. I've built field operations from scratch across 5 countries: Dubai, UK, Ireland, India, and across multiple cities in each. I've run 50+ site operations in a single quarter, managed C-level stakeholders without ever needing to escalate, and built 4 operational systems for a company that had zero process infrastructure when I walked in. Every time I enter a new environment, I don't wait for a playbook, I write it. And then I make sure the next person who comes after me can run it without calling me. You're not just looking for someone who shows up and follows protocol. You need someone who builds the protocol, trains others on it, and makes sure your deployment data is clean enough that your SF team never has to question what came off the floor. I'd love 15 minutes to walk you through exactly how I do that for Human Archive."
+        }
+      ],
+      "cuts": [],
+      "fluff_suggestions": []
+    }
+  ],
+  "styles": {
+    "tight": { "internal_gap": 0.4, "min_tail": 0.14, "max_tail": 0.4, "head": 0.11, "soft_gap": 1.2, "soft_max_tail": 0.6, "soft_margin": 3.0 },
+    "natural": { "internal_gap": 0.4, "min_tail": 0.26, "max_tail": 0.45, "head": 0.19, "soft_gap": 1.2, "soft_max_tail": 0.6, "soft_margin": 3.0 }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "clip1",
+      "at": "00:00",
+      "issue": "Single continuous AI-avatar take (HeyGen pitch), no retakes/false starts/fillers/fluff on read-through — kept as one span with zero cuts, same pattern as video-4's HeyGen source.",
+      "default": "keep as single span, reference style params"
+    }
+  ]
+}

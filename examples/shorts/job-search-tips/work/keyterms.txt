@@ -1,0 +1,32 @@
+# video-4 keyterms — DRAFT, best-effort. No script exists yet for this video, so this is
+# built from the channel's known topic (brand.md: job search psychology and practical career
+# strategy), not the actual script content. If the real transcript reveals specialty terms
+# this list missed, add them and re-run: python tools/transcribe.py video-4 --force
+LinkedIn
+ATS
+applicant tracking system
+cover letter
+resume
+recruiter
+cold email
+cold outreach
+referral
+follow-up email
+informational interview
+elevator pitch
+job search
+interview prep
+behavioral interview
+STAR method
+salary negotiation
+counteroffer
+ghosting
+rejection
+burnout
+imposter syndrome
+networking
+career pivot
+career change
+job hunt
+hiring manager
+job description

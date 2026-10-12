@@ -1,0 +1,1284 @@
+{
+ "words": [
+  {
+   "text": "Hi,",
+   "start": 256,
+   "end": 465
+  },
+  {
+   "text": "I'm",
+   "start": 899,
+   "end": 1075
+  },
+  {
+   "text": "Saksham.",
+   "start": 1075,
+   "end": 1686
+  },
+  {
+   "text": "Here's",
+   "start": 2183,
+   "end": 2520
+  },
+  {
+   "text": "something",
+   "start": 2520,
+   "end": 2938
+  },
+  {
+   "text": "most",
+   "start": 3083,
+   "end": 3468
+  },
+  {
+   "text": "candidates",
+   "start": 3468,
+   "end": 4110
+  },
+  {
+   "text": "applying",
+   "start": 4190,
+   "end": 4736
+  },
+  {
+   "text": "to",
+   "start": 4849,
+   "end": 4977
+  },
+  {
+   "text": "Human",
+   "start": 4993,
+   "end": 5298
+  },
+  {
+   "text": "Archive",
+   "start": 5395,
+   "end": 5941
+  },
+  {
+   "text": "probably",
+   "start": 6117,
+   "end": 6744
+  },
+  {
+   "text": "haven't",
+   "start": 6760,
+   "end": 7081
+  },
+  {
+   "text": "noticed.",
+   "start": 7097,
+   "end": 7755
+  },
+  {
+   "text": "Your",
+   "start": 8141,
+   "end": 8333
+  },
+  {
+   "text": "real",
+   "start": 8462,
+   "end": 8831
+  },
+  {
+   "text": "bottleneck",
+   "start": 8847,
+   "end": 9521
+  },
+  {
+   "text": "isn't",
+   "start": 9730,
+   "end": 10148
+  },
+  {
+   "text": "building",
+   "start": 10148,
+   "end": 10453
+  },
+  {
+   "text": "better",
+   "start": 10613,
+   "end": 10870
+  },
+  {
+   "text": "SLAM",
+   "start": 10870,
+   "end": 11224
+  },
+  {
+   "text": "models",
+   "start": 11288,
+   "end": 11721
+  },
+  {
+   "text": "or",
+   "start": 12219,
+   "end": 12267
+  },
+  {
+   "text": "raising",
+   "start": 12540,
+   "end": 12845
+  },
+  {
+   "text": "more",
+   "start": 12958,
+   "end": 13199
+  },
+  {
+   "text": "capital.",
+   "start": 13199,
+   "end": 13648
+  },
+  {
+   "text": "It's",
+   "start": 14146,
+   "end": 14323
+  },
+  {
+   "text": "the",
+   "start": 14323,
+   "end": 14403
+  },
+  {
+   "text": "fact",
+   "start": 14403,
+   "end": 14965
+  },
+  {
+   "text": "that",
+   "start": 14965,
+   "end": 15077
+  },
+  {
+   "text": "every",
+   "start": 15270,
+   "end": 15495
+  },
+  {
+   "text": "hour",
+   "start": 15752,
+   "end": 16041
+  },
+  {
+   "text": "of",
+   "start": 16153,
+   "end": 16298
+  },
+  {
+   "text": "unusable",
+   "start": 16394,
+   "end": 17117
+  },
+  {
+   "text": "deployment",
+   "start": 17117,
+   "end": 17679
+  },
+  {
+   "text": "data",
+   "start": 17759,
+   "end": 18176
+  },
+  {
+   "text": "collected",
+   "start": 18417,
+   "end": 19027
+  },
+  {
+   "text": "on",
+   "start": 19124,
+   "end": 19204
+  },
+  {
+   "text": "a",
+   "start": 19204,
+   "end": 19220
+  },
+  {
+   "text": "factory",
+   "start": 19220,
+   "end": 19750
+  },
+  {
+   "text": "floor",
+   "start": 19782,
+   "end": 20135
+  },
+  {
+   "text": "costs",
+   "start": 20569,
+   "end": 21035
+  },
+  {
+   "text": "your",
+   "start": 21147,
+   "end": 21340
+  },
+  {
+   "text": "ML",
+   "start": 21532,
+   "end": 21741
+  },
+  {
+   "text": "pipeline",
+   "start": 21853,
+   "end": 22399
+  },
+  {
+   "text": "weeks",
+   "start": 22753,
+   "end": 23218
+  },
+  {
+   "text": "of",
+   "start": 23299,
+   "end": 23363
+  },
+  {
+   "text": "retraining",
+   "start": 23459,
+   "end": 23989
+  },
+  {
+   "text": "downstream.",
+   "start": 24037,
+   "end": 24808
+  },
+  {
+   "text": "The",
+   "start": 25226,
+   "end": 25322
+  },
+  {
+   "text": "entire",
+   "start": 25322,
+   "end": 25820
+  },
+  {
+   "text": "value",
+   "start": 25884,
+   "end": 26285
+  },
+  {
+   "text": "chain",
+   "start": 26285,
+   "end": 26574
+  },
+  {
+   "text": "of",
+   "start": 26751,
+   "end": 26815
+  },
+  {
+   "text": "physical",
+   "start": 26912,
+   "end": 27313
+  },
+  {
+   "text": "AI",
+   "start": 27393,
+   "end": 27682
+  },
+  {
+   "text": "starts",
+   "start": 28052,
+   "end": 28581
+  },
+  {
+   "text": "and",
+   "start": 28854,
+   "end": 28919
+  },
+  {
+   "text": "dies",
+   "start": 29015,
+   "end": 29464
+  },
+  {
+   "text": "at",
+   "start": 29641,
+   "end": 29786
+  },
+  {
+   "text": "ground-level",
+   "start": 29818,
+   "end": 30524
+  },
+  {
+   "text": "capture",
+   "start": 30540,
+   "end": 31006
+  },
+  {
+   "text": "quality.",
+   "start": 31006,
+   "end": 31439
+  },
+  {
+   "text": "And",
+   "start": 31825,
+   "end": 31889
+  },
+  {
+   "text": "right",
+   "start": 32049,
+   "end": 32258
+  },
+  {
+   "text": "now,",
+   "start": 32306,
+   "end": 32419
+  },
+  {
+   "text": "you're",
+   "start": 32948,
+   "end": 33093
+  },
+  {
+   "text": "hiring",
+   "start": 33173,
+   "end": 33542
+  },
+  {
+   "text": "20",
+   "start": 33655,
+   "end": 33928
+  },
+  {
+   "text": "ops",
+   "start": 34056,
+   "end": 34297
+  },
+  {
+   "text": "managers",
+   "start": 34297,
+   "end": 34795
+  },
+  {
+   "text": "at",
+   "start": 34795,
+   "end": 34891
+  },
+  {
+   "text": "once,",
+   "start": 34939,
+   "end": 35389
+  },
+  {
+   "text": "which",
+   "start": 35758,
+   "end": 35886
+  },
+  {
+   "text": "means",
+   "start": 35983,
+   "end": 36240
+  },
+  {
+   "text": "you're",
+   "start": 36400,
+   "end": 36593
+  },
+  {
+   "text": "not",
+   "start": 36593,
+   "end": 36834
+  },
+  {
+   "text": "just",
+   "start": 36882,
+   "end": 37187
+  },
+  {
+   "text": "filling",
+   "start": 37187,
+   "end": 37412
+  },
+  {
+   "text": "seats.",
+   "start": 37460,
+   "end": 37893
+  },
+  {
+   "text": "You're",
+   "start": 38311,
+   "end": 38552
+  },
+  {
+   "text": "betting",
+   "start": 38568,
+   "end": 38841
+  },
+  {
+   "text": "that",
+   "start": 38953,
+   "end": 39065
+  },
+  {
+   "text": "20",
+   "start": 39130,
+   "end": 39419
+  },
+  {
+   "text": "people",
+   "start": 39515,
+   "end": 40029
+  },
+  {
+   "text": "you've",
+   "start": 40077,
+   "end": 40253
+  },
+  {
+   "text": "never",
+   "start": 40253,
+   "end": 40575
+  },
+  {
+   "text": "trained",
+   "start": 40575,
+   "end": 40896
+  },
+  {
+   "text": "before",
+   "start": 40896,
+   "end": 41329
+  },
+  {
+   "text": "will",
+   "start": 41618,
+   "end": 41731
+  },
+  {
+   "text": "protect",
+   "start": 41779,
+   "end": 42276
+  },
+  {
+   "text": "the",
+   "start": 42325,
+   "end": 42373
+  },
+  {
+   "text": "most",
+   "start": 42405,
+   "end": 42758
+  },
+  {
+   "text": "expensive",
+   "start": 42758,
+   "end": 43320
+  },
+  {
+   "text": "part",
+   "start": 43384,
+   "end": 43786
+  },
+  {
+   "text": "of",
+   "start": 43786,
+   "end": 43866
+  },
+  {
+   "text": "your",
+   "start": 43866,
+   "end": 43978
+  },
+  {
+   "text": "data",
+   "start": 44026,
+   "end": 44219
+  },
+  {
+   "text": "supply",
+   "start": 44267,
+   "end": 44733
+  },
+  {
+   "text": "chain",
+   "start": 44733,
+   "end": 44958
+  },
+  {
+   "text": "from",
+   "start": 45455,
+   "end": 45568
+  },
+  {
+   "text": "day",
+   "start": 45632,
+   "end": 45857
+  },
+  {
+   "text": "one.",
+   "start": 45873,
+   "end": 46081
+  },
+  {
+   "text": "That's",
+   "start": 46499,
+   "end": 46820
+  },
+  {
+   "text": "where",
+   "start": 46820,
+   "end": 46948
+  },
+  {
+   "text": "I",
+   "start": 46997,
+   "end": 47157
+  },
+  {
+   "text": "come",
+   "start": 47157,
+   "end": 47286
+  },
+  {
+   "text": "in.",
+   "start": 47382,
+   "end": 47430
+  },
+  {
+   "text": "I've",
+   "start": 47944,
+   "end": 48201
+  },
+  {
+   "text": "built",
+   "start": 48201,
+   "end": 48490
+  },
+  {
+   "text": "field",
+   "start": 48522,
+   "end": 48827
+  },
+  {
+   "text": "operations",
+   "start": 48907,
+   "end": 49565
+  },
+  {
+   "text": "from",
+   "start": 49630,
+   "end": 49742
+  },
+  {
+   "text": "scratch",
+   "start": 49806,
+   "end": 50368
+  },
+  {
+   "text": "across",
+   "start": 50689,
+   "end": 50962
+  },
+  {
+   "text": "5",
+   "start": 51171,
+   "end": 51460
+  },
+  {
+   "text": "countries:",
+   "start": 51492,
+   "end": 51942
+  },
+  {
+   "text": "Dubai,",
+   "start": 52520,
+   "end": 52808
+  },
+  {
+   "text": "UK,",
+   "start": 53483,
+   "end": 53932
+  },
+  {
+   "text": "Ireland,",
+   "start": 54366,
+   "end": 54910
+  },
+  {
+   "text": "India,",
+   "start": 55183,
+   "end": 55744
+  },
+  {
+   "text": "and",
+   "start": 56144,
+   "end": 56208
+  },
+  {
+   "text": "across",
+   "start": 56240,
+   "end": 56577
+  },
+  {
+   "text": "multiple",
+   "start": 56721,
+   "end": 57266
+  },
+  {
+   "text": "cities",
+   "start": 57266,
+   "end": 57634
+  },
+  {
+   "text": "in",
+   "start": 57730,
+   "end": 57778
+  },
+  {
+   "text": "each.",
+   "start": 57826,
+   "end": 58115
+  },
+  {
+   "text": "I've",
+   "start": 58612,
+   "end": 58772
+  },
+  {
+   "text": "run",
+   "start": 58852,
+   "end": 59028
+  },
+  {
+   "text": "50+",
+   "start": 59028,
+   "end": 59557
+  },
+  {
+   "text": "site",
+   "start": 59733,
+   "end": 60214
+  },
+  {
+   "text": "operations",
+   "start": 60294,
+   "end": 60967
+  },
+  {
+   "text": "in",
+   "start": 60967,
+   "end": 61095
+  },
+  {
+   "text": "a",
+   "start": 61095,
+   "end": 61127
+  },
+  {
+   "text": "single",
+   "start": 61127,
+   "end": 61592
+  },
+  {
+   "text": "quarter,",
+   "start": 61592,
+   "end": 62040
+  },
+  {
+   "text": "managed",
+   "start": 62457,
+   "end": 62873
+  },
+  {
+   "text": "C-level",
+   "start": 62873,
+   "end": 63434
+  },
+  {
+   "text": "stakeholders",
+   "start": 63434,
+   "end": 64123
+  },
+  {
+   "text": "without",
+   "start": 64219,
+   "end": 64604
+  },
+  {
+   "text": "ever",
+   "start": 64780,
+   "end": 64972
+  },
+  {
+   "text": "needing",
+   "start": 64972,
+   "end": 65325
+  },
+  {
+   "text": "to",
+   "start": 65357,
+   "end": 65501
+  },
+  {
+   "text": "escalate,",
+   "start": 65517,
+   "end": 66398
+  },
+  {
+   "text": "and",
+   "start": 66542,
+   "end": 66607
+  },
+  {
+   "text": "built",
+   "start": 66719,
+   "end": 66911
+  },
+  {
+   "text": "4",
+   "start": 67023,
+   "end": 67392
+  },
+  {
+   "text": "operational",
+   "start": 67664,
+   "end": 68337
+  },
+  {
+   "text": "systems",
+   "start": 68337,
+   "end": 69010
+  },
+  {
+   "text": "for",
+   "start": 69042,
+   "end": 69202
+  },
+  {
+   "text": "a",
+   "start": 69202,
+   "end": 69346
+  },
+  {
+   "text": "company",
+   "start": 69346,
+   "end": 69731
+  },
+  {
+   "text": "that",
+   "start": 69843,
+   "end": 69971
+  },
+  {
+   "text": "had",
+   "start": 69987,
+   "end": 70115
+  },
+  {
+   "text": "zero",
+   "start": 70180,
+   "end": 70788
+  },
+  {
+   "text": "process",
+   "start": 70788,
+   "end": 71445
+  },
+  {
+   "text": "infrastructure",
+   "start": 71509,
+   "end": 72342
+  },
+  {
+   "text": "when",
+   "start": 72711,
+   "end": 72775
+  },
+  {
+   "text": "I",
+   "start": 72871,
+   "end": 72999
+  },
+  {
+   "text": "walked",
+   "start": 73031,
+   "end": 73368
+  },
+  {
+   "text": "in.",
+   "start": 73368,
+   "end": 73496
+  },
+  {
+   "text": "Every",
+   "start": 73913,
+   "end": 74137
+  },
+  {
+   "text": "time",
+   "start": 74153,
+   "end": 74377
+  },
+  {
+   "text": "I",
+   "start": 74473,
+   "end": 74489
+  },
+  {
+   "text": "enter",
+   "start": 74634,
+   "end": 74954
+  },
+  {
+   "text": "a",
+   "start": 74954,
+   "end": 74986
+  },
+  {
+   "text": "new",
+   "start": 74986,
+   "end": 75194
+  },
+  {
+   "text": "environment,",
+   "start": 75210,
+   "end": 76092
+  },
+  {
+   "text": "I",
+   "start": 76572,
+   "end": 76620
+  },
+  {
+   "text": "don't",
+   "start": 76652,
+   "end": 76877
+  },
+  {
+   "text": "wait",
+   "start": 76893,
+   "end": 77213
+  },
+  {
+   "text": "for",
+   "start": 77213,
+   "end": 77373
+  },
+  {
+   "text": "a",
+   "start": 77373,
+   "end": 77454
+  },
+  {
+   "text": "playbook,",
+   "start": 77454,
+   "end": 78110
+  },
+  {
+   "text": "I",
+   "start": 78575,
+   "end": 78623
+  },
+  {
+   "text": "write",
+   "start": 78719,
+   "end": 79040
+  },
+  {
+   "text": "it.",
+   "start": 79040,
+   "end": 79088
+  },
+  {
+   "text": "And",
+   "start": 79601,
+   "end": 79681
+  },
+  {
+   "text": "then",
+   "start": 79697,
+   "end": 79825
+  },
+  {
+   "text": "I",
+   "start": 79841,
+   "end": 79873
+  },
+  {
+   "text": "make",
+   "start": 79953,
+   "end": 80257
+  },
+  {
+   "text": "sure",
+   "start": 80257,
+   "end": 80530
+  },
+  {
+   "text": "the",
+   "start": 80658,
+   "end": 80738
+  },
+  {
+   "text": "next",
+   "start": 80738,
+   "end": 81171
+  },
+  {
+   "text": "person",
+   "start": 81219,
+   "end": 81748
+  },
+  {
+   "text": "who",
+   "start": 81924,
+   "end": 81988
+  },
+  {
+   "text": "comes",
+   "start": 82020,
+   "end": 82404
+  },
+  {
+   "text": "after",
+   "start": 82404,
+   "end": 82677
+  },
+  {
+   "text": "me",
+   "start": 82677,
+   "end": 82933
+  },
+  {
+   "text": "can",
+   "start": 83286,
+   "end": 83511
+  },
+  {
+   "text": "run",
+   "start": 83527,
+   "end": 83768
+  },
+  {
+   "text": "it",
+   "start": 83768,
+   "end": 83960
+  },
+  {
+   "text": "without",
+   "start": 84089,
+   "end": 84378
+  },
+  {
+   "text": "calling",
+   "start": 84490,
+   "end": 84795
+  },
+  {
+   "text": "me.",
+   "start": 84908,
+   "end": 85149
+  },
+  {
+   "text": "You're",
+   "start": 85390,
+   "end": 85550
+  },
+  {
+   "text": "not",
+   "start": 85550,
+   "end": 85775
+  },
+  {
+   "text": "just",
+   "start": 85791,
+   "end": 85984
+  },
+  {
+   "text": "looking",
+   "start": 86032,
+   "end": 86321
+  },
+  {
+   "text": "for",
+   "start": 86353,
+   "end": 86466
+  },
+  {
+   "text": "someone",
+   "start": 86466,
+   "end": 86964
+  },
+  {
+   "text": "who",
+   "start": 87140,
+   "end": 87301
+  },
+  {
+   "text": "shows",
+   "start": 87301,
+   "end": 87686
+  },
+  {
+   "text": "up",
+   "start": 87783,
+   "end": 88040
+  },
+  {
+   "text": "and",
+   "start": 88120,
+   "end": 88184
+  },
+  {
+   "text": "follows",
+   "start": 88361,
+   "end": 88650
+  },
+  {
+   "text": "protocol.",
+   "start": 88762,
+   "end": 89308
+  },
+  {
+   "text": "You",
+   "start": 89710,
+   "end": 89870
+  },
+  {
+   "text": "need",
+   "start": 89870,
+   "end": 90063
+  },
+  {
+   "text": "someone",
+   "start": 90063,
+   "end": 90497
+  },
+  {
+   "text": "who",
+   "start": 90593,
+   "end": 90754
+  },
+  {
+   "text": "builds",
+   "start": 90850,
+   "end": 91219
+  },
+  {
+   "text": "the",
+   "start": 91316,
+   "end": 91412
+  },
+  {
+   "text": "protocol,",
+   "start": 91412,
+   "end": 91926
+  },
+  {
+   "text": "trains",
+   "start": 92440,
+   "end": 92825
+  },
+  {
+   "text": "others",
+   "start": 93002,
+   "end": 93227
+  },
+  {
+   "text": "on",
+   "start": 93323,
+   "end": 93500
+  },
+  {
+   "text": "it,",
+   "start": 93500,
+   "end": 93612
+  },
+  {
+   "text": "and",
+   "start": 94142,
+   "end": 94206
+  },
+  {
+   "text": "makes",
+   "start": 94303,
+   "end": 94544
+  },
+  {
+   "text": "sure",
+   "start": 94544,
+   "end": 94897
+  },
+  {
+   "text": "your",
+   "start": 94929,
+   "end": 95041
+  },
+  {
+   "text": "deployment",
+   "start": 95106,
+   "end": 95668
+  },
+  {
+   "text": "data",
+   "start": 95668,
+   "end": 95989
+  },
+  {
+   "text": "is",
+   "start": 96150,
+   "end": 96246
+  },
+  {
+   "text": "clean",
+   "start": 96374,
+   "end": 96599
+  },
+  {
+   "text": "enough",
+   "start": 96696,
+   "end": 97017
+  },
+  {
+   "text": "that",
+   "start": 97354,
+   "end": 97466
+  },
+  {
+   "text": "your",
+   "start": 97499,
+   "end": 97756
+  },
+  {
+   "text": "SF",
+   "start": 97756,
+   "end": 98093
+  },
+  {
+   "text": "team",
+   "start": 98157,
+   "end": 98462
+  },
+  {
+   "text": "never",
+   "start": 98815,
+   "end": 99169
+  },
+  {
+   "text": "has",
+   "start": 99185,
+   "end": 99410
+  },
+  {
+   "text": "to",
+   "start": 99442,
+   "end": 99602
+  },
+  {
+   "text": "question",
+   "start": 99602,
+   "end": 100052
+  },
+  {
+   "text": "what",
+   "start": 100309,
+   "end": 100486
+  },
+  {
+   "text": "came",
+   "start": 100486,
+   "end": 100791
+  },
+  {
+   "text": "off",
+   "start": 100791,
+   "end": 100967
+  },
+  {
+   "text": "the",
+   "start": 100967,
+   "end": 101048
+  },
+  {
+   "text": "floor.",
+   "start": 101128,
+   "end": 101449
+  },
+  {
+   "text": "I'd",
+   "start": 101835,
+   "end": 102060
+  },
+  {
+   "text": "love",
+   "start": 102092,
+   "end": 102316
+  },
+  {
+   "text": "15",
+   "start": 102316,
+   "end": 102798
+  },
+  {
+   "text": "minutes",
+   "start": 102798,
+   "end": 103280
+  },
+  {
+   "text": "to",
+   "start": 103280,
+   "end": 103376
+  },
+  {
+   "text": "walk",
+   "start": 103441,
+   "end": 103698
+  },
+  {
+   "text": "you",
+   "start": 103698,
+   "end": 103842
+  },
+  {
+   "text": "through",
+   "start": 103842,
+   "end": 104147
+  },
+  {
+   "text": "exactly",
+   "start": 104581,
+   "end": 105271
+  },
+  {
+   "text": "how",
+   "start": 105288,
+   "end": 105416
+  },
+  {
+   "text": "I",
+   "start": 105464,
+   "end": 105496
+  },
+  {
+   "text": "do",
+   "start": 105625,
+   "end": 105785
+  },
+  {
+   "text": "that",
+   "start": 105785,
+   "end": 105978
+  },
+  {
+   "text": "for",
+   "start": 106187,
+   "end": 106315
+  },
+  {
+   "text": "Human",
+   "start": 106347,
+   "end": 106637
+  },
+  {
+   "text": "Archive.",
+   "start": 106669,
+   "end": 107183
+  }
+ ]
+}

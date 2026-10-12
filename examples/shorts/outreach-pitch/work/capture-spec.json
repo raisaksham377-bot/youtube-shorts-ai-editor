@@ -1,0 +1,12 @@
+{
+  "viewport": [1280, 900],
+  "out_dir": "media/projects/video-5/real",
+  "steps": [
+    { "goto": "https://www.humanarchive.ai/" },
+    { "wait": 1200 },
+    { "shot": "humanarchive-home", "url_label": "humanarchive.ai", "title": "Human Archive" },
+    { "goto": "https://www.ycombinator.com/companies/human-archive/jobs/di880ZV-operations-manager" },
+    { "wait": 1500 },
+    { "shot": "humanarchive-job-post", "url_label": "ycombinator.com/companies/human-archive/jobs", "title": "Operations Manager at Human Archive | Y Combinator" }
+  ]
+}
